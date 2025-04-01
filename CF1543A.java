@@ -10,6 +10,7 @@ public class CF1543A {
             long b=sc.nextLong();
             if(a==b)
             {
+                
                 System.out.println(0+" "+0);
             }
             else
